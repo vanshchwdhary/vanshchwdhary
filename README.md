@@ -73,8 +73,3 @@ DSA questions & solutions for interview prep.
     <img src="https://skillicons.dev/icons?i=web" width="50" />
   </a>
 </p>
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D00FF,100:00F0FF&height=150&section=footer" />
-</p>
-```
