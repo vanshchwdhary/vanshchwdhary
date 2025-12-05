@@ -1,6 +1,6 @@
 <!-- Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:9D00FF&height=250&text=Vansh%20Phalswal&fontSize=60&fontColor=ffffff&animation=fadeIn&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:000000,100:0A2647&text=Vansh%20Phalswal&fontColor=00F0FF&fontSize=55&fontAlign=50&fontAlignY=60&desc=Full-Stack%20Developer%20|%20Cybersecurity%20Enthusiast&descAlign=50&descAlignY=85&animation=fadeIn" />
 </p>
 
 <!-- Dynamic Typing Text -->
